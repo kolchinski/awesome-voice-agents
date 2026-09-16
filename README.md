@@ -91,6 +91,7 @@ Add WeChat | 添加江树微信: **1796060717**
 | [Speechmatics Flow](https://www.speechmatics.com/flow) | Conversational voice-agent API built on high-accuracy multilingual ASR with sentiment/tone awareness. | 基于高精度多语种 ASR 的对话语音 Agent API |
 | [Agora Conversational AI Engine](https://www.agora.io/en/products/conversational-ai-engine/) | Real-time RTC platform orchestrating ASR + any LLM + TTS for global low-latency voice agents. | 全球实时通信厂商的语音 Agent 引擎，低延迟 |
 | [DialogBrain](https://dialogbrain.com/voice/api) | Multi-channel voice agent platform: agents make and take calls on Telegram, WhatsApp, Google Meet and web widgets, with real-time multi-language call translation, lipsync avatars and an MCP API (244+ tools). | 多渠道语音 Agent 平台，支持 Telegram/WhatsApp/Meet 通话、实时多语同传与 MCP API |
+| [ThunderPhone](https://thunderphone.com) | AI phone-agent platform for inbound receptionists and outbound campaigns over phone calls, in 47 languages; remote MCP server (59 tools, `https://api.thunderphone.com/v1/mcp`). | AI 电话智能体平台，支持 47 种语言的呼入接待与呼出外呼；提供远程 MCP 服务器（59 个工具） |
 ---
 
 ## VAD (Voice Activity Detection) | 语音活动检测
